@@ -9,8 +9,8 @@
         <main id="index-hero">
             <div class="container">
                 <div class="col-12">
-                    <h1 class="hero-title">Cally Dai</h1>
-                    <h2 class="hero-subtitle">User Experience Designer</h2>
+                    <h1 class="hero-title">Dev BootCamp Student</h1>
+                    <h2 class="hero-subtitle">Full Stack Web Developer</h2>
                 </div>
             </div>
         </main>
@@ -35,7 +35,7 @@
                     <img class="main-project-image" width="452" height="405" src="img/index/glifft-img.png" alt="glifft product design">
                 </div>
                 <div class="col-7">
-                    <h2 class="project-title">Glifft</h2>
+                    <h2 class="project-title">Glifft Website</h2>
                     <p class="project-description">I designed the MVP for a new mobile application from the ground up, focusing on creating a seamless user experience and establishing accurate brand aesthetic.</p>
                     <a href="projects/glifft" class="button">View Case Study</a>
                 </div>
@@ -48,7 +48,7 @@
                     <img class="main-project-image" width="495" height="405" src="img/index/canopy-img.png" alt="canopy product design">
                 </div>
                 <div class="col-7">
-                    <h2 class="project-title">Canopy</h2>
+                    <h2 class="project-title">Canopy Web App</h2>
                     <p class="project-description">Using user research and user testing, I established content hierarchy and a style guide for Canopy’s responsive web learning platform.</p>
                     <a href="projects/canopy" class="button">View Case Study</a>
                 </div>
@@ -60,7 +60,7 @@
                     <img class="main-project-image" width="477" height="405" src="img/index/soma-img.png" alt="soma water product design">
                 </div>
                 <div class="col-7">
-                    <h2 class="project-title">Soma Water</h2>
+                    <h2 class="project-title">Redesign using Rails</h2>
                     <p class="project-description">To drive understanding and conversion for their new offer, I worked closely with growth marketers to redesign Soma Water’s promotional webpage.</p>
                     <a href="projects/somawater" class="button">View Case Study</a>
                 </div>
